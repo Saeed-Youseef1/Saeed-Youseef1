@@ -7,11 +7,10 @@
 I'm a Junior Software Engineer with a strong foundation in computer science principles, including data structures, algorithms, object-oriented programming, and problem-solving. I have practical experience building full-stack applications using React on the front end and Node.js on the backend. I am passionate about writing clean, maintainable code and continuously advancing my technical skills. I thrive in collaborative environments, enjoy working on real-world projects, and aim to contribute to creating efficient and user-friendly software solutions. My goal is to grow as a developer and be part of building impactful, scalable applications. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-  
-- 📫 Social links
+- 👨‍💻 Junior Software Engineer specializing in Frontend Development.  
+- 💼 Working as a freelance Full Stack Developer, building modern and responsive web apps.
+
+📫 Social links
 <p>
 <p>
   <a href="https://www.linkedin.com/in/saeed-youseef/">
@@ -34,11 +33,5 @@ I'm a Junior Software Engineer with a strong foundation in computer science prin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-</a>
+
