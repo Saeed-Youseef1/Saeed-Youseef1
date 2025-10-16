@@ -28,10 +28,5 @@ I'm a Junior Software Engineer with a strong foundation in computer science prin
 
 
 ### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-
+<p align="left"> <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3"/> <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/> <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript"/> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express"/> <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/> <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql" alt="SQL"/> <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" alt="Git"/> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub"/> <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" alt="Figma"/> </p>
 
