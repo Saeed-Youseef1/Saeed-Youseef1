@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm a Junior Software Engineer with a strong foundation in computer science principles, including data structures, algorithms, object-oriented programming, and problem-solving. I have practical experience building full-stack applications using React on the front end and Node.js on the backend. I am passionate about writing clean, maintainable code and continuously advancing my technical skills. I thrive in collaborative environments, enjoy working on real-world projects, and aim to contribute to creating efficient and user-friendly software solutions. My goal is to grow as a developer and be part of building impactful, scalable applications. 
+I'm a Software Engineer with a strong foundation in computer science principles, including data structures, algorithms, object-oriented programming, and problem-solving. I have practical experience building full-stack applications using React on the front end and Node.js on the backend. I am passionate about writing clean, maintainable code and continuously advancing my technical skills. I thrive in collaborative environments, enjoy working on real-world projects, and aim to contribute to creating efficient and user-friendly software solutions. My goal is to grow as a developer and be part of building impactful, scalable applications. 
 </p>
 
 - 👨‍💻 Junior Software Engineer specializing in Frontend Development.  
